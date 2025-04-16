@@ -1,1 +1,0 @@
-// Sistema de personagem pode ser expandido com classes, magias e colisões futuramente.
